@@ -1,0 +1,16 @@
+C:\Users\suellen.silva\DIO\DIO.Series_Suellen\obj\Debug\net5.0\DIO.Series_Suellen.csproj.AssemblyReference.cache
+C:\Users\suellen.silva\DIO\DIO.Series_Suellen\obj\Debug\net5.0\DIO.Series_Suellen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suellen.silva\DIO\DIO.Series_Suellen\obj\Debug\net5.0\DIO.Series_Suellen.AssemblyInfoInputs.cache
+C:\Users\suellen.silva\DIO\DIO.Series_Suellen\obj\Debug\net5.0\DIO.Series_Suellen.AssemblyInfo.cs
+C:\Users\suellen.silva\DIO\DIO.Series_Suellen\obj\Debug\net5.0\DIO.Series_Suellen.csproj.CoreCompileInputs.cache
+C:\Users\suellen.silva\DIO\DIO.Series_Suellen\bin\Debug\net5.0\DIO.Series_Suellen.exe
+C:\Users\suellen.silva\DIO\DIO.Series_Suellen\bin\Debug\net5.0\DIO.Series_Suellen.deps.json
+C:\Users\suellen.silva\DIO\DIO.Series_Suellen\bin\Debug\net5.0\DIO.Series_Suellen.runtimeconfig.json
+C:\Users\suellen.silva\DIO\DIO.Series_Suellen\bin\Debug\net5.0\DIO.Series_Suellen.runtimeconfig.dev.json
+C:\Users\suellen.silva\DIO\DIO.Series_Suellen\bin\Debug\net5.0\DIO.Series_Suellen.dll
+C:\Users\suellen.silva\DIO\DIO.Series_Suellen\bin\Debug\net5.0\ref\DIO.Series_Suellen.dll
+C:\Users\suellen.silva\DIO\DIO.Series_Suellen\bin\Debug\net5.0\DIO.Series_Suellen.pdb
+C:\Users\suellen.silva\DIO\DIO.Series_Suellen\obj\Debug\net5.0\DIO.Series_Suellen.dll
+C:\Users\suellen.silva\DIO\DIO.Series_Suellen\obj\Debug\net5.0\ref\DIO.Series_Suellen.dll
+C:\Users\suellen.silva\DIO\DIO.Series_Suellen\obj\Debug\net5.0\DIO.Series_Suellen.pdb
+C:\Users\suellen.silva\DIO\DIO.Series_Suellen\obj\Debug\net5.0\DIO.Series_Suellen.genruntimeconfig.cache
